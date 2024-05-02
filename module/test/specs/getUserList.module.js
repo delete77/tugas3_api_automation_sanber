@@ -5,8 +5,8 @@ import {expect} from "chai";
 // baseURL
 const baseURL = 'https://kasir-api.belajarqa.com';
 
-// accessToken
-const accessToken = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjAwNWYyZWMyLTZjOGYtNGEwZi1iMDM0LTE5NzhkYjM2ZDJkNyIsImNvbXBhbnlJZCI6Ijg2NzM1M2E3LTBkNjYtNDg4OS1hYzc0LWE5YWE4NDk2MjI2YSIsImlhdCI6MTcxNDQ4NzM4N30.jiywZn1W5TLoSpyarD1UPXDjLfEn6HrO3dBcFJcSwjA';
+// accessToken - ganti dari yg anda dapetkan dari menjalankan file getToken.module.js
+const accessToken = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjAwNWYyZWMyLTZjOGYtNGEwZi1iMDM0LTE5NzhkYjM2ZDJkNyIsImNvbXBhbnlJZCI6Ijg2NzM1M2E3LTBkNjYtNDg4OS1hYzc0LWE5YWE4NDk2MjI2YSIsImlhdCI6MTcxNDYzMDEzNn0.Q3DFoOnq1Lq-5KghCRl6WW2odVFdCzGgpmhd5pU4TlU';
 
 describe('API Automation Test', () => {
     it('Get Users List', async () => {
