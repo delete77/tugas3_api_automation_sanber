@@ -38,7 +38,7 @@ Screenshot crudUser part 3 (report)
 - npx mocha module\test\specs\getToken.module.js
 
 Screenshot getToken:
-![Screenshot getToken]()https://github.com/delete77/tugas3_api_automation_sanber/blob/efc2ec869c47d6eee225007d2fe13cde7c536268/screenshot/1.%20getToken.png
+![Screenshot getToken](https://github.com/delete77/tugas3_api_automation_sanber/blob/efc2ec869c47d6eee225007d2fe13cde7c536268/screenshot/1.%20getToken.png)
 
 
 2. createUser.module.js
