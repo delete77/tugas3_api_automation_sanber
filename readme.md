@@ -18,11 +18,12 @@ Berikut daftar dan keterangan file
 7. crudUser.module.js : code dari file 1-6 yang telah digabung dan dapat dirunning dengan sekali perintah
   
 How to run:
+
 7. crudUser.module.js //ini adalah file final yg sudah digabung
 - npx mocha module\test\specs\crudUser.module.js //running biasa
 - npx mocha --reporter mochawesome module\test\specs\crudUser.module.js //run and reporting dengan mochawesome (pastikan sudah menginstal mochawesome terlebih dahulu)
 
-Screenshot crudUser part 1:
+Screenshot crudUser part 1
 ![Screenshot crudUser part 1](https://github.com/delete77/tugas3_api_automation_sanber/blob/efc2ec869c47d6eee225007d2fe13cde7c536268/screenshot/Screenshoot%20tugas%203%20part%201.png)
 
 Screenshot crudUser part 2
